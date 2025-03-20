@@ -20,8 +20,8 @@
 # Data Analytics: Resources & References
 
 ## Work Samples
-- [CIDM 5310](https://github.com/BenGCollier/CIDM-5310)
-- [CIDM 6308](https://github.com/BenGCollier/CIDM-6308)
+- [CIDM 6325](https://github.com/BenGCollier/CIDM-6325)
+- [CIDM 6340](https://github.com/BenGCollier/CIDM-6340)
 
 ## Knowledge Sources
 - Lecture slides & videos
